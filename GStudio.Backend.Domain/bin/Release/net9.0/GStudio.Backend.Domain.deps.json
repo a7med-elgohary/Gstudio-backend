@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GStudio.Backend.Domain/1.0.0": {
+        "runtime": {
+          "GStudio.Backend.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GStudio.Backend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

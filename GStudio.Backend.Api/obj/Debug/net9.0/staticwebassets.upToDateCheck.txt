@@ -1,0 +1,61 @@
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\asset-manifest.json
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\favicon.svg
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\sitemap.xml
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\753.923930fd.chunk.js.LICENSE.txt
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\990.c1264ae9.chunk.js
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\manifest.json
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\css\main.e9936ea0.css
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\index.html
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\753.923930fd.chunk.js
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\19.3fabd774.chunk.js
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\919.010658ae.chunk.js
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\google9a1b167d1cf5f0cc.html
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\favicon.ico
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\main.78f79ccb.js
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\564.49223270.chunk.js
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\main.78f79ccb.js.LICENSE.txt
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\robots.txt
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\989.3dffda0a.chunk.js
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\wwwroot\static\js\989.3dffda0a.chunk.js.LICENSE.txt
+wwwroot\apple-touch-icon.png
+wwwroot\asset-manifest.json
+wwwroot\assets\colors\blue.jpg
+wwwroot\assets\colors\green.jpg
+wwwroot\assets\colors\orange.jpg
+wwwroot\assets\colors\red.jpg
+wwwroot\assets\colors\yellow.jpg
+wwwroot\assets\logos\abstract.jpg
+wwwroot\assets\logos\combination.jpg
+wwwroot\assets\logos\contoured.jpg
+wwwroot\assets\logos\emblem.jpg
+wwwroot\assets\logos\mascot.jpg
+wwwroot\assets\logos\monogram.jpg
+wwwroot\assets\logos\pictorial.jpg
+wwwroot\assets\logos\wordmark.jpg
+wwwroot\favicon.ico
+wwwroot\favicon.svg
+wwwroot\favicon-192.png
+wwwroot\favicon-32.png
+wwwroot\google9a1b167d1cf5f0cc.html
+wwwroot\heroimg.jpg
+wwwroot\index.html
+wwwroot\loading-logo.png
+wwwroot\logo.png
+wwwroot\manifest.json
+wwwroot\photos\hero-mobile.webp
+wwwroot\photos\office1.webp
+wwwroot\photos\office2.webp
+wwwroot\robots.txt
+wwwroot\sitemap.xml
+wwwroot\static\css\main.e9936ea0.css
+wwwroot\static\js\19.3fabd774.chunk.js
+wwwroot\static\js\564.49223270.chunk.js
+wwwroot\static\js\753.923930fd.chunk.js
+wwwroot\static\js\753.923930fd.chunk.js.LICENSE.txt
+wwwroot\static\js\919.010658ae.chunk.js
+wwwroot\static\js\989.3dffda0a.chunk.js
+wwwroot\static\js\989.3dffda0a.chunk.js.LICENSE.txt
+wwwroot\static\js\990.c1264ae9.chunk.js
+wwwroot\static\js\main.78f79ccb.js
+wwwroot\static\js\main.78f79ccb.js.LICENSE.txt
+wwwroot\web.config

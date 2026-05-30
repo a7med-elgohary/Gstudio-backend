@@ -1,14 +1,3 @@
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\bin\Debug\net9.0\GStudio.Backend.Domain.deps.json
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\bin\Debug\net9.0\GStudio.Backend.Domain.dll
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\bin\Debug\net9.0\GStudio.Backend.Domain.pdb
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.AssemblyInfoInputs.cache
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.AssemblyInfo.cs
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.csproj.CoreCompileInputs.cache
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.dll
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\refint\GStudio.Backend.Domain.dll
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.pdb
-c:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\ref\GStudio.Backend.Domain.dll
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\bin\Debug\net9.0\GStudio.Backend.Domain.deps.json
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\bin\Debug\net9.0\GStudio.Backend.Domain.dll
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\bin\Debug\net9.0\GStudio.Backend.Domain.pdb
@@ -16,6 +5,7 @@ C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backen
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.AssemblyInfoInputs.cache
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.AssemblyInfo.cs
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.sourcelink.json
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.dll
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\refint\GStudio.Backend.Domain.dll
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Domain\obj\Debug\net9.0\GStudio.Backend.Domain.pdb

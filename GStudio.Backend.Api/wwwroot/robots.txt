@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://gstudio-art.com/sitemap.xml

@@ -1,21 +1,3 @@
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\Select.Html.dep
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\GStudio.Backend.Infrastructure.deps.json
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\GStudio.Backend.Infrastructure.dll
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\GStudio.Backend.Infrastructure.pdb
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\GStudio.Backend.Application.dll
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\GStudio.Backend.Domain.dll
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\GStudio.Backend.Domain.pdb
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\GStudio.Backend.Application.pdb
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.AssemblyInfo.cs
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio..275D4918.Up2Date
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.dll
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\refint\GStudio.Backend.Infrastructure.dll
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.pdb
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\ref\GStudio.Backend.Infrastructure.dll
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\Select.Html.dep
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\GStudio.Backend.Infrastructure.deps.json
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\bin\Release\net9.0\GStudio.Backend.Infrastructure.dll
@@ -29,6 +11,7 @@ C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backen
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.AssemblyInfo.cs
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.sourcelink.json
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio..275D4918.Up2Date
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\GStudio.Backend.Infrastructure.dll
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Infrastructure\obj\Release\net9.0\refint\GStudio.Backend.Infrastructure.dll

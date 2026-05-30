@@ -1,18 +1,3 @@
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\bin\Release\net9.0\GStudio.Backend.Application.deps.json
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\bin\Release\net9.0\GStudio.Backend.Application.dll
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\bin\Release\net9.0\GStudio.Backend.Application.pdb
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\bin\Release\net9.0\GStudio.Backend.Domain.dll
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\bin\Release\net9.0\GStudio.Backend.Domain.pdb
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.csproj.AssemblyReference.cache
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.AssemblyInfoInputs.cache
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.AssemblyInfo.cs
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.csproj.CoreCompileInputs.cache
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio..3FAA4F15.Up2Date
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.dll
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\refint\GStudio.Backend.Application.dll
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.pdb
-C:\Users\USERR\Desktop\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\ref\GStudio.Backend.Application.dll
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\bin\Release\net9.0\GStudio.Backend.Application.deps.json
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\bin\Release\net9.0\GStudio.Backend.Application.dll
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\bin\Release\net9.0\GStudio.Backend.Application.pdb
@@ -23,6 +8,7 @@ C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backen
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.AssemblyInfoInputs.cache
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.AssemblyInfo.cs
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.sourcelink.json
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio..3FAA4F15.Up2Date
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\GStudio.Backend.Application.dll
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Application\obj\Release\net9.0\refint\GStudio.Backend.Application.dll

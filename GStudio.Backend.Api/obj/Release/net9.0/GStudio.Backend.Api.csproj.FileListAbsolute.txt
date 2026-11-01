@@ -206,11 +206,9 @@ C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backen
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\scopedcss\bundle\GStudio.Backend.Api.styles.css
-C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\11jmn14zkp-s6p59wm79r.gz
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\kp4f7k48lb-sn6kv14vje.gz
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\12ahateen4-0rjvhruidz.gz
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\hwzaooty20-75ltrp3euy.gz
-C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\ervq2m7hvo-cbyf6713zy.gz
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\4178up6rfs-5iezeq49fh.gz
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\qzf7ko8lo0-7bk910eg7a.gz
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\22wyj3nfid-uv9h8nev2r.gz
@@ -222,9 +220,6 @@ C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backen
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\hogvlcv6nt-piq0tkgizz.gz
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\wlj2oy835d-aoy2n91b9l.gz
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\zd7lu7hfn2-px95055fwt.gz
-C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\3j29fidq2m-495yl8dfbb.gz
-C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\qaqb3vbmx8-j9l02pxga7.gz
-C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\xso4w0tmf6-hywo4vvg9y.gz
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\staticwebassets.build.json.cache
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\staticwebassets.development.json
@@ -236,3 +231,8 @@ C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backen
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\GStudio.Backend.Api.pdb
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\GStudio.Backend.Api.genruntimeconfig.cache
 C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\ref\GStudio.Backend.Api.dll
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\11jmn14zkp-b4f40m8xj8.gz
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\ervq2m7hvo-61upkp9j3h.gz
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\1fi86e82bf-3ea62r47vy.gz
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\f4twu2ugfv-794e4hoghp.gz
+C:\Users\USERR\Desktop\my career\g-studio Project\gstudio-backend\GStudio.Backend.Api\obj\Release\net9.0\compressed\xaxxld7pip-hywo4vvg9y.gz

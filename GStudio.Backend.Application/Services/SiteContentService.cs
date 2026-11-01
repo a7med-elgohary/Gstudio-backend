@@ -64,6 +64,11 @@ public class SiteContentService : ISiteContentService
         content.ContactEmail = request.ContactEmail;
         content.ContactWhatsapp = request.ContactWhatsapp;
         content.ContactLocation = request.ContactLocation;
+        content.FacebookUrl = request.FacebookUrl;
+        content.InstagramUrl = request.InstagramUrl;
+        content.LinkedInUrl = request.LinkedInUrl;
+        content.BehanceUrl = request.BehanceUrl;
+        content.TikTokUrl = request.TikTokUrl;
         content.Stat1Number = request.Stat1Number;
         content.Stat1Label = request.Stat1Label;
         content.Stat2Number = request.Stat2Number;
@@ -82,6 +87,7 @@ public class SiteContentService : ISiteContentService
         c.HeroVideoUrl ?? "", c.HeroVideoUrlMobile ?? "", c.HeroImageUrl ?? "",
         c.AboutTagline ?? "", c.AboutTitleLine1 ?? "", c.AboutTitleLine2 ?? "", c.AboutTitleAccent ?? "", c.AboutDescription ?? "",
         c.ContactEmail ?? "", c.ContactWhatsapp ?? "", c.ContactLocation ?? "",
+        c.FacebookUrl ?? "", c.InstagramUrl ?? "", c.LinkedInUrl ?? "", c.BehanceUrl ?? "", c.TikTokUrl ?? "",
         c.Stat1Number ?? "", c.Stat1Label ?? "",
         c.Stat2Number ?? "", c.Stat2Label ?? "",
         c.Stat3Number ?? "", c.Stat3Label ?? "",
@@ -91,5 +97,6 @@ public class SiteContentService : ISiteContentService
         "", "", "", // Hero
         "", "", "", "", "", // About
         "", "", "", // Contact
+        "", "", "", "", "", // Social
         "", "", "", "", "", "", "", ""); // Stats
 }

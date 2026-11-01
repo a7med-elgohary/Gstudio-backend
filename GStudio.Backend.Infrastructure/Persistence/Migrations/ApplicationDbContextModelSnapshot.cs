@@ -296,6 +296,9 @@ namespace GStudio.Backend.Infrastructure.Persistence.Migrations
                     b.Property<string>("AboutTitleLine2")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("BehanceUrl")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ContactEmail")
                         .HasColumnType("nvarchar(max)");
 
@@ -308,6 +311,9 @@ namespace GStudio.Backend.Infrastructure.Persistence.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("FacebookUrl")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("HeroImageUrl")
                         .HasColumnType("nvarchar(max)");
 
@@ -315,6 +321,12 @@ namespace GStudio.Backend.Infrastructure.Persistence.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("HeroVideoUrlMobile")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("InstagramUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LinkedInUrl")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime?>("ModifiedAt")
@@ -342,6 +354,9 @@ namespace GStudio.Backend.Infrastructure.Persistence.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Stat4Number")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("TikTokUrl")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

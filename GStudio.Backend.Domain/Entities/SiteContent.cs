@@ -19,6 +19,13 @@ public class SiteContent : BaseEntity
     public string? ContactWhatsapp { get; set; }
     public string? ContactLocation { get; set; }
 
+    // Social Media Links
+    public string? FacebookUrl { get; set; }
+    public string? InstagramUrl { get; set; }
+    public string? LinkedInUrl { get; set; }
+    public string? BehanceUrl { get; set; }
+    public string? TikTokUrl { get; set; }
+
     // Statistics Section
     public string? Stat1Number { get; set; }
     public string? Stat1Label { get; set; }
